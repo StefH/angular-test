@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "StefH",
+    "githubRepoName": "test",
+    "npmModuleName": "test",
+    "moduleGlobal": "test",
+    "ngModuleName": "TestModule",
+    "selectorPrefix": "tst",
+    "projectTitle": "test",
+    "projectDescription": "test",
+    "authorName": "Stef Heyenrath"
+  }
+}
