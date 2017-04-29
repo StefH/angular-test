@@ -1,4 +1,6 @@
 # test
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/StefH/angular-test.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/StefH/test.svg?branch=master)](https://travis-ci.org/StefH/test)
 [![codecov](https://codecov.io/gh/StefH/test/branch/master/graph/badge.svg)](https://codecov.io/gh/StefH/test)
 [![npm version](https://badge.fury.io/js/test.svg)](http://badge.fury.io/js/test)
